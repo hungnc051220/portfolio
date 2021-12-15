@@ -1,2 +1,2 @@
 # portfolio
-Responsive Personal Portfolio12
+Responsive Personal Portfolio
